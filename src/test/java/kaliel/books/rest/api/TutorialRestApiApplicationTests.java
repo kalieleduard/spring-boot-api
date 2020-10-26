@@ -1,4 +1,4 @@
-package expertostech.tutorial.rest.api;
+package kaliel.books.rest.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
